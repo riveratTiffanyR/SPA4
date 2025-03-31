@@ -1,3 +1,11 @@
+/*
+* Course: CSC 2210 - Procedural and OO C++
+ * Section: 001
+ * Assignment: SPA4
+ * Names: Tiffany Rivera, Eleanor Certalic, Madison Betz
+ * Date Due: 02/21/2025
+ */
+
 #include "Messages.h"
 #include "Character/Player.h"
 #include <iostream>
@@ -186,9 +194,6 @@ void Messages::ghostAttackSuccess(int damage) {
 void Messages::ghostAttackFail() {
     cout << " and you dodge it successfully!" << endl << endl;
 }
-
-
-
 
 void Messages::displayHealthStatus(int playerHealth, int enemyHealth, bool isClown) {
     cout << "Current Player Health: " << playerHealth << endl;

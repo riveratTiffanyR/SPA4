@@ -1,5 +1,14 @@
+/*
+* Course: CSC 2210 - Procedural and OO C++
+ * Section: 001
+ * Assignment: SPA4
+ * Names: Tiffany Rivera, Eleanor Certalic, Madison Betz
+ * Date Due: 02/21/2025
+ */
+
 #ifndef ENTITY_H
 #define ENTITY_H
+
 class Entity {
 protected:
     int x;
@@ -7,7 +16,6 @@ protected:
     int health;
     int attackDamage;
     static int getRandomNumber(int min, int max);
-
 
 public:
     Entity(int x, int y, int health, int attackDamage);

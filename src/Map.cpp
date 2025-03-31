@@ -1,14 +1,18 @@
-#include "Map.h"
+/*
+* Course: CSC 2210 - Procedural and OO C++
+ * Section: 001
+ * Assignment: SPA4
+ * Names: Tiffany Rivera, Eleanor Certalic, Madison Betz
+ * Date Due: 02/21/2025
+ */
 
+#include "Map.h"
 #include <iostream>
 #include <stdlib.h>
 #include <ctime>
-
 #include "Character/Player.h"
 #include "Character/Ghost.h"
 #include "Character/Clown.h"
-
-
 
 Map::Map(Player* p) : player(p) {
     //This keeps the map from generating the same map each time
