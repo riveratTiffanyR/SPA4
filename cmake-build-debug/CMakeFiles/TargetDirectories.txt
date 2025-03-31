@@ -1,5 +1,3 @@
 C:/Users/riverat/SPA4/cmake-build-debug/CMakeFiles/SPA4.dir
 C:/Users/riverat/SPA4/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/riverat/SPA4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/riverat/SPA4/cmake-build-debug/CMakeFiles/SPA4_autogen_timestamp_deps.dir
-C:/Users/riverat/SPA4/cmake-build-debug/CMakeFiles/SPA4_autogen.dir
